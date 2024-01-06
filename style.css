@@ -30,9 +30,7 @@ p {
 }
 
 /*image too large and needs resized*/
-img {
-  width: 100px;
-}
+
 
 /*image needs to be centered*/
 .center {

@@ -44,3 +44,8 @@ img {
 hr {
   width: 550px;
 }
+
+a:link {color: blue}
+a:visited {color: darkgreen}
+a:hover {color: lightblue}
+a:active {color: lightgreen}
